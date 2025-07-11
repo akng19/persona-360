@@ -1,0 +1,5 @@
+{
+  "name": "Persona360",
+  "description": "An application that provides detailed personality analysis for different life roles (Manager, Parent, Citizen, Person) based on user responses to a series of questions, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
